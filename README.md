@@ -1,0 +1,2 @@
+# Vehicle-Control-Using-Image-Processing
+The main idea of the project is to use Image Processing to control the movement of the Robotic car. Depending on what image is captured, the car moves forward, backward, left or right. The Raspberry Pi 2/3 model along with the Raspberry Pi camera module is used to capture the image and store it and then using template matching the correct direction is determined and the movement of the robotic car is controlled.
